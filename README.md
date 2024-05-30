@@ -6,6 +6,7 @@ Alura+ projeto da Formação Front-end da Alura. A partir do zero: HTML e CSS pa
 
 ## Links:
 
+- https://devmarcosvinicius.github.io/alura-plus-front-end/
 - https://alura-plus-delta-blush.vercel.app/
 
 ## Alura+ Layout (UI/UX):
