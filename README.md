@@ -1,6 +1,4 @@
-# Untitled
-
-Alura+
+# Alura+
 
 Alura+ projeto da Formação Front-end da Alura. A partir do zero: HTML e CSS para projetos web
 
